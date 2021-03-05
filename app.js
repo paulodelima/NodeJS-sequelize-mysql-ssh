@@ -1,6 +1,5 @@
 const { Sequelize } = require('sequelize');
 const tunnel = require('tunnel-ssh');
-const fs = require('fs');
 
 const environment = process.env.ENV || 'development';
 const config = require('./config/config')[environment];
