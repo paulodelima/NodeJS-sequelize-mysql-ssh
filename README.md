@@ -1,5 +1,5 @@
 # NodeJS-sequelize-mysql-ssh
- Simples project to show how connect a MySQL database thru SSH connection using Sequelize
+ Simple project to show how connect a MySQL database thru SSH connection using Sequelize
 
  ## Dependencies to install
 
